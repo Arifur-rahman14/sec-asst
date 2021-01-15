@@ -5,7 +5,7 @@
 /* text style  */
 h1, h2{
     font-family: 'Fraunces', serif;
-    font: 700;
+    font-weight: 700;
 }
 
 /* Area spacing css */
@@ -41,6 +41,12 @@ h1, h2{
 
 /* image sizing class */
 .image-width{
-    width: 80px;
+    width: 100px;
     height: auto;
+}
+
+.title-ch{
+    font-size: 24px;
+    color: rgb(54, 57, 85);
+    font-weight: 700;
 }
